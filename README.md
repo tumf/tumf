@@ -26,7 +26,7 @@ Beginning in his early youth, he went from engagement in hardware, to assembly, 
 * ImageLableing - annotating images for deep learning
 * Vim + OSX
 * Leading 30 engineers in Vietnam.
-* Trouble shooting - deep inspecting into source codes in OpenSoucce products.
+* Trouble shooting - deep inspecting into source codes in OpenSource products.
 
 Also, he has extended experience as a manager and software engineer, and can train inexperienced IT personnel. He recognizes the need for the continued education of partially-experienced engineers, and places great importance on in-company study groups, blog writing, and community activity.
 
