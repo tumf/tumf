@@ -15,14 +15,19 @@ In 2019, he founded Sumica Pte., Ltd. in Sinagpore, and launched Sumica(sumica.a
 
 Beginning in his early youth, he went from engagement in hardware, to assembly, to C, to C++, to PHP, to Ruby. His knowledge is somewhat shallow yet broad, so he is good at general things. His current advanced skills are as follows:
 
-A Blockchain enthusiast 
-Infrastructure creation in OpenStack
-Docker container
-Deployment automation in Ansible
-Site construction using RubyOnRails
-Multimaster MySQL in Galera Cluster
-Consul orchestration
-Vim + OSX
+* A Blockchain enthusiast 
+* Infrastructure creation in OpenStack
+* Docker/Kubernetes
+* Prefer GCP than AWS.
+* Deployment automation in Ansible
+* Site construction using RubyOnRails
+* Multimaster MySQL in Galera Cluster
+* Consul orchestration
+* ImageLableing - annotating images for deep learning
+* Vim + OSX
+* Leading 30 engineers in Vietnam.
+* Trouble shooting - deep inspecting into source codes in OpenSoucce products.
 
 Also, he has extended experience as a manager and software engineer, and can train inexperienced IT personnel. He recognizes the need for the continued education of partially-experienced engineers, and places great importance on in-company study groups, blog writing, and community activity.
 
+Since 2021, he started writing a tech blog in Japanese -> https://blog.tumf.dev/
