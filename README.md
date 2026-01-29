@@ -43,16 +43,17 @@
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@tumf-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tumf)
+[![Blog](https://img.shields.io/badge/-blog.tumf.dev-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://blog.tumf.dev)
 [![DEV.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/tumf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tumf/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tumf)
 
 ---
 
-### Latest Blog Posts
+### Blog
 
-- [Easy setup scaling out of your graph-node](https://dev.to/tumf/easy-setup-scaling-out-of-your-graph-node-32e2)
-- [Does Solidity optimizer avoid changing storage variables?](https://dev.to/tumf/does-solidity-optimizer-avoid-changing-storage-variables-5h9h)
+- 🇯🇵 **[blog.tumf.dev](https://blog.tumf.dev)** - Japanese blog (active)
+- 🇺🇸 **[dev.to/tumf](https://dev.to/tumf)** - English posts
 
 <details>
 <summary>Stats</summary>
