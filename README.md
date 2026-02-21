@@ -27,6 +27,8 @@
 - 🌐 **[graph-node scaling](https://dev.to/tumf/easy-setup-scaling-out-of-your-graph-node-32e2)** - Guide for scaling The Graph indexers
 
 ### Developer Tools
+- 🔎 **[obsidx](https://github.com/tumf/obsidx)** - Local-first Obsidian vault indexer/search CLI (SQLite FTS5)
+- 🍺 **[homebrew-tap](https://github.com/tumf/homebrew-tap)** - Homebrew tap for distributing my CLI tools
 - 🧬 **[gargor](https://github.com/tumf/gargor)** - Auto-tuning with Genetic Algorithms
 - 🔧 **[wt](https://github.com/tumf/wt)** - Git worktree management made simple
 - ✍️ **[jj-desc](https://github.com/tumf/jj-desc)** - AI-generated commit messages for Jujutsu
