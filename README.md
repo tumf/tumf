@@ -28,8 +28,9 @@
 
 ### Developer Tools
 - 🔎 **[obsidx](https://github.com/tumf/obsidx)** - Local-first Obsidian vault indexer/search CLI (SQLite FTS5)
-- 💬 **[slack-rs](https://github.com/tumf/slack-rs)** - Slack CLI with OAuth, secure token storage, and API access
-- 🐦 **[xcom-rs](https://github.com/tumf/xcom-rs)** - Agent-friendly X.com (Twitter) API CLI
+- 🏃 **[agent-exec](https://github.com/tumf/agent-exec)** - JSON-only stdout job runner for agent workflows (run/status/tail/wait/kill) ([blog](https://blog.tumf.dev/posts/diary/2026/2/19/agent-exec-stdout-stderr-separation/))
+- 💬 **[slack-rs](https://github.com/tumf/slack-rs)** - Slack CLI with OAuth, secure token storage, and API access ([blog](https://blog.tumf.dev/posts/diary/2026/2/11/slack-rs-agentic-cli-implementation/))
+- 🐦 **[xcom-rs](https://github.com/tumf/xcom-rs)** - Agent-friendly X.com (Twitter) API CLI ([blog](https://blog.tumf.dev/posts/diary/2026/2/16/xcom-rs-pay-per-use-cli-design/))
 - 🍺 **[homebrew-tap](https://github.com/tumf/homebrew-tap)** - Homebrew tap for distributing my CLI tools
 - 🧬 **[gargor](https://github.com/tumf/gargor)** - Auto-tuning with Genetic Algorithms
 - 🔧 **[wt](https://github.com/tumf/wt)** - Git worktree management made simple
