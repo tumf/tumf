@@ -28,6 +28,8 @@
 
 ### Developer Tools
 - 🔎 **[obsidx](https://github.com/tumf/obsidx)** - Local-first Obsidian vault indexer/search CLI (SQLite FTS5)
+- 💬 **[slack-rs](https://github.com/tumf/slack-rs)** - Slack CLI with OAuth, secure token storage, and API access
+- 🐦 **[xcom-rs](https://github.com/tumf/xcom-rs)** - Agent-friendly X.com (Twitter) API CLI
 - 🍺 **[homebrew-tap](https://github.com/tumf/homebrew-tap)** - Homebrew tap for distributing my CLI tools
 - 🧬 **[gargor](https://github.com/tumf/gargor)** - Auto-tuning with Genetic Algorithms
 - 🔧 **[wt](https://github.com/tumf/wt)** - Git worktree management made simple
