@@ -39,8 +39,8 @@ I build developer tools, MCP servers, and multi-agent infrastructure.
 
 ## Sites I run
 
-- [dopagaki.design](https://dopagaki.design/)
-- [llc.tumf.jp](https://llc.tumf.jp/)
+- [Dopagaki Atlas](https://dopagaki.design/) — Classify high-stimulation UI with 13 stimulus engines and 14 expression themes, browse 6-second video samples of the 182 pairings, and build AI design prompts
+- [tumf LLC](https://llc.tumf.jp/) — Software development company specializing in AI and Web3
 
 ## Writing
 
