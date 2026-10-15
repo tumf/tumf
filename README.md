@@ -29,6 +29,8 @@ I build developer tools, MCP servers, and multi-agent infrastructure.
 - [slack-rs](https://github.com/tumf/slack-rs) — Slack CLI with OAuth, secure token storage, and API access
 - [xcom-rs](https://github.com/tumf/xcom-rs) — Agent-friendly X.com API CLI
 - [kani](https://github.com/tumf/kani) — LLM smart router with an OpenAI-compatible API
+- [envdirx](https://github.com/tumf/envdirx) — File-based environment variables with optional per-variable encryption
+- [jev-cli](https://github.com/tumf/jev-cli) — Dependency-free CLI for TypeSafe Jev
 
 ## Selected earlier projects
 
