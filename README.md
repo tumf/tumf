@@ -37,6 +37,10 @@ I build developer tools, MCP servers, and multi-agent infrastructure.
 - [solana-copy-trader](https://github.com/tumf/solana-copy-trader) — Copy trading bot on Solana
 - [wt](https://github.com/tumf/wt) — Git worktree management tool
 
+## Apps
+
+- [Voel](https://getvoel.app/) — Your AI memory, anywhere. Read, edit, and search Obsidian-compatible Markdown notes on iPhone and iPad; sync directly between devices with Syncthing. Available on iOS, with Android coming soon.
+
 ## Sites I run
 
 - [Dopagaki Atlas](https://dopagaki.design/) — Classify high-stimulation UI with 13 stimulus engines and 14 expression themes, browse 6-second video samples of the 182 pairings, and build AI design prompts
